@@ -1,11 +1,18 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: rgb(205, 238, 222);
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .image{
-    border: 5px solid green;
+    border: 5px solid rgb(95, 183, 158);
     border-radius: 10px;
     height: 400px;
+    float: right;
 }
 
 .link-button {
@@ -17,3 +24,12 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+h1{
+    text-align: center;
+    background-color: rgb(35, 99, 88);
+    padding-left: 5%;
+    color: white
+}
+
+
